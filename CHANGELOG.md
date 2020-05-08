@@ -12,6 +12,7 @@
       - ADDED: Global 'skip_waypoints' option [#5556](https://github.com/Project-OSRM/osrm-backend/pull/5556)
       - FIXED: Install the libosrm_guidance library correctly [#5604](https://github.com/Project-OSRM/osrm-backend/pull/5604)
       - FIXED: Http Handler can now deal witch optional whitespace between header-key and -value [#5606](https://github.com/Project-OSRM/osrm-backend/issues/5606)
+      - ADDED: monitoring endpoint in prometheus format [#5180](https://github.com/Project-OSRM/osrm-backend/pull/5180)
     - Routing:
       - CHANGED: allow routing past `barrier=arch` [#5352](https://github.com/Project-OSRM/osrm-backend/pull/5352)
       - CHANGED: default car weight was reduced to 2000 kg. [#5371](https://github.com/Project-OSRM/osrm-backend/pull/5371)
